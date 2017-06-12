@@ -16,6 +16,7 @@ DO NOT WRITE YOUR PASSWORD IN emailer_V3.py FILE.
 
 YOU WILL BE PROMTED TO WRITE THE PASSWORD ONCE THE PROGRAM RUNS THE SCRIPT
 
+## Filling the Text files
 | FILE NAME | WHAT TO WRITE |
 |       :---:     |     :---      |
 | raw_data.txt | write the email addresses in this file. each email address should be in a new line |
